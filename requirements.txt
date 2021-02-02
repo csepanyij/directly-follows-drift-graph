@@ -1,0 +1,7 @@
+pm4py
+statsmodels
+graphviz
+matplotlib
+ruptures
+pandas
+numpy
