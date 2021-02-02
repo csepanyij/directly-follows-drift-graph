@@ -4,10 +4,8 @@ This repository contains a modified Directly-Follows Graph designed to analyze p
 ## Installation
 Run the following command to install all necessary libraries
 
-<code>
-cd path/to/folder <br>
-pip install -r requirements.txt
-</code>
+    cd path/to/folder
+    pip install -r requirements.txt
 
 ## Execution
 There are two ways to run the package: via the Jupyter notebook or via script execution.
