@@ -5,7 +5,7 @@ This repository contains a modified Directly-Follows Graph designed to analyze p
 Run the following command to install all necessary libraries
 
 <code>
-cd path/to/folder
+cd path/to/folder <br>
 pip install -r requirements.txt
 </code>
 
@@ -25,3 +25,6 @@ Using the ```process_drift.py``` script, the complete code runs all at once, pro
 - ```CHOSEN_PERIOD1```: The first (earlier) time period for the comparison.
 - ```CHOSEN_PERIOD2```: The second (later) time period for the comparison.
 - ```ACTIVITY_NAMES```: Variable name in .xes input file, which contains the activity names. These will be plotted in the nodes of the output DFG.
+
+## Citation
+When using this library, please consider citing the following paper:
